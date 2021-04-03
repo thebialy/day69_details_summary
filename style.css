@@ -64,8 +64,15 @@ details summary:after {
     transform-origin: center;
     transition: 200ms linear;
   }
-  
+
   details[open] summary:after {
     transform: rotate(45deg);
     font-size: 2rem;
   }
+
+  details p {
+    font-size: 0.95rem;
+    margin: 0 0 1rem;
+    padding-top: 1rem;
+  }
+  
