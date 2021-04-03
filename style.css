@@ -49,4 +49,5 @@ details summary {
     font-size: 1.25rem;
     font-weight: 300;
     list-style: none;
+    outline: 0;
 }
