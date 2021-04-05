@@ -9,17 +9,17 @@ html, .root {
 }
 
 body {
-    font: menu;
-    font-size: 1rem;
-    line-height: 1.4;
-    padding: 0;
-    margin: 0;
+  font: menu;
+  font-size: 1rem;
+  line-height: 1.4;
+  padding: 0;
+  margin: 0;
 }
 
 section {
-    padding-top: 4rem;
-    width: 50%;
-    margin: auto;
+  padding-top: 4rem;
+  width: 50%;
+  margin: auto;
 }
 
 h1 {
